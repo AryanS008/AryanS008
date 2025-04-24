@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">Computer Science Student with knowledge in Full Stack, python, DSA and a keen interest in Software Development, Data Science</h3>
+<h3 align="center">Computer Science Student with knowledge in Web Development, python, DSA and a keen interest in Software Development, Data Science</h3>
 
 
 ## 🌐 Socials:
